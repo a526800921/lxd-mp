@@ -1,4 +1,4 @@
-//app.js更新
+//app.jsaaaa
 import api from './public/api/index.js'
 import store from './store/index.js'
 import wxApi from './utils/wxApi/index.js'
